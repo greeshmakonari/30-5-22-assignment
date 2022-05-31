@@ -1,5 +1,5 @@
 # 30-5-22-assignment
-# Seperating even and odd Numbers 
+# Separating even and odd Numbers 
 1. Open the numbers.txt file in write mode.
 2. Write the numbers 1 through 10 to the file.
 3. Close the file.
